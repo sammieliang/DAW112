@@ -15,8 +15,6 @@ Before running DAW 112, you will need the following modules installed:
 -Pyaudio
 -Pydub
 
-Their libraries are included in the 3rd Party Libraries folder, but in the case that something goes amiss, here are the instructions to installation for each.
-
 For each of these modules, make sure that you have pip working from the command line. If not, follow the instructions here: http://pip.readthedocs.io/en/stable/installing/
 
 Pygame Installation (From https://www.pygame.org/wiki/GettingStarted):
